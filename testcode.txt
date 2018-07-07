@@ -1,2 +1,6 @@
 Ive changed my mind , this line has changed
+<<<<<<< HEAD
 Edited Sixth line
+=======
+Edited fifth line
+>>>>>>> ee8fa9a239a069cc6af459c96844646f0fac360d
